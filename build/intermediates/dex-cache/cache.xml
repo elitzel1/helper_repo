@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/eryx/Downloads/TrackTV/app/build/intermediates/exploded-aar/TrackTV/Volley/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05c81d07b2649183b03c6b8ad7faf20d24cbdf3e">
+        <dex dex="/Users/eryx/Downloads/TrackTV/app/build/intermediates/pre-dexed/debug/classes-cf1ceff3d1eb254f227d6edf9818428a55280716.jar" />
+    </item>
+    <item
+        jar="/Users/eryx/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/eryx/Downloads/TrackTV/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-0a9e7dc47d02fb74610234d7b93df11a4d3b5887.jar" />
+    </item>
+    <item
+        jar="/Users/eryx/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/eryx/Downloads/TrackTV/app/build/intermediates/pre-dexed/debug/glide-3.6.1-58911c41a3177655e5f80f0cc7f27ffa63c3df63.jar" />
+    </item>
+    <item
+        jar="/Users/eryx/Downloads/TrackTV/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/eryx/Downloads/TrackTV/app/build/intermediates/pre-dexed/debug/classes-ece5b53ed4248ac07c353617d110db87f0e9ba75.jar" />
+    </item>
+    <item
+        jar="/Users/eryx/Downloads/TrackTV/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/eryx/Downloads/TrackTV/app/build/intermediates/pre-dexed/debug/classes-60e9bed906ebe351aaf738c0128cfc67571120d8.jar" />
+    </item>
+    <item
+        jar="/Users/eryx/Downloads/TrackTV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/eryx/Downloads/TrackTV/app/build/intermediates/pre-dexed/debug/classes-72f8ce4a23fb049aff35b8db2745e501aa332d09.jar" />
+    </item>
+    <item
+        jar="/Users/eryx/Downloads/TrackTV/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/eryx/Downloads/TrackTV/app/build/intermediates/pre-dexed/debug/classes-8dcaf1bfbd0471654050a02484b1672281800a56.jar" />
+    </item>
+    <item
+        jar="/Users/eryx/Downloads/TrackTV/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/eryx/Downloads/TrackTV/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-b6d60e07e37813469b1c66fa856bba5cd657b2d7.jar" />
+    </item>
+
+</items>
